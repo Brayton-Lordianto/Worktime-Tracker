@@ -6,6 +6,7 @@ The client explains that, everyday, employees who enter or leave the company’s
 Mr. ***redacted*** explains that the pen-and-paper process is “time-consuming” for both the client and employees. The client further explains that the system is prone to human error because it is manually calculated by both Mr. ***redacted*** and individual employees. Mr. ***redacted*** tries to minimize the errors by double-checking and relying on his memory and skills. He hopes to find a way to make the process more efficient and less error prone.
 
 WORD COUNT: 226 words (excluding citations)
+
 # **Rationale for Proposed Product**
 The proposed product is a mobile application for iOS devices– iPad and iPhone– because almost all the employees assigned to Mr. ***redacted*** has iOS devices (*Refer to Appendix A– interview transcript*). Functionality on a tablet is needed by the client because Mr. ***redacted*** prefers to view information on his tablet (*Refer to Appendix A*). Extending functionality to phones allows employees to check their overtime hours anywhere and anytime. The program is scalable as new employees can install the app into their phones.
 
