@@ -1,1 +1,1 @@
-The product can be directly downloaded.
+The product is zipped here.
